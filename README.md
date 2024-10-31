@@ -21,7 +21,7 @@ Tonight's lesson will go over an easy challenge from each of these categories
 The premise of these challenges then is to use a variety of cybersecurity skills and tools to attempt to get the code, file, or website to spit out a flag.
 
 ## What are the tools?
-Though each CTF is technically different, I can suggest two main tools:
+Though each CTF is technically different, I can suggest these main tools:
 
 - [dcode.fr](https://www.dcode.fr/)
 - [CTF Toolkit](https://ctftoolkit.com/)
