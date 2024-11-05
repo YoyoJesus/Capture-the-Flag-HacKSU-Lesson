@@ -48,3 +48,12 @@ I will be going over the following challenges:
 - Scavenger Hunt
 
 My writeups (instructions) for solving these challenges are available as part of this repository. Unlike most write ups, I do not provide the whole flag at the end, as a way to encourage actually trying to follow my steps.
+
+## Additional Resources and Challenges
+I want to note here a couple different events/places you can dive deeper into ctfs and similar hacking challenges:
+
+As mentioned, Carnegie Mellon will be hosting their annual PicoCTF sometime in March or April. In the meantime, the Pico Gym has more than 250 challenges you can attempt now.
+
+One of my friends runs a CTF at the Rochester Institute of Technology ([link](https://ctftime.org/ctf/170))
+
+Similar to the gym but more challenging, there is always [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://www.hackthebox.com/). These provide both trainings and cyberrange vms to attempt to find and exploit vulnerabilities in.
