@@ -26,8 +26,11 @@ Though each CTF is technically different, I can suggest these main tools:
 - [dcode.fr](https://www.dcode.fr/)
 - [CTF Toolkit](https://ctftoolkit.com/)
 - [cyberchef](https://gchq.github.io/CyberChef/)
+- [ChatGPT](https://chatgpt.com/)
 
-Each of these will provide nearly all of the tools required for any CTF challenge, baring very specific ones. dcode.fr is better for cipher brute-forcing, were CTF Toolkit provides everything else.
+This is one of the only times were chatgpt is not only allowed, but at times the best tool for the job. That being said, if the other tools can handle it, use them first.
+
+Each of these will provide nearly all of the tools required for any CTF challenge, baring very specific ones. dcode.fr is better for cipher brute-forcing, were CTF Toolkit provides everything else. Cyberchef is not my go-to for cryptographic challenges, but its magic setting is useful when dcode fails.
 
 ## How Do I Get Started?
 - Make an account on [picoCTF](https://play.picoctf.org/register)
